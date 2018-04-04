@@ -1,9 +1,12 @@
 h1 {
   font-family: 'Raleway', sans-serif;
-  width: 100%;
   padding: 100px 100px 200px 200px;
   font-size: 60px;
+}
 
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 45px;
 }
 
 p {
